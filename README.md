@@ -244,22 +244,17 @@ I enjoy solving engineering problems involving:
 🧠 [LeetCode](https://leetcode.com/u/qqY4w33DDJ/)
 
 ---
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajveer100704&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eta-ten-10.vercel.app/api?username=rajveer100704&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues"/>
+  <img height="180em" src="https://github-readme-stats-eta-ten-10.vercel.app/api/top-langs/?username=rajveer100704&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rajveer100704&theme=tokyonight" />
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajveer100704&layout=compact&theme=tokyonight" />
 </p>
 
 ---
