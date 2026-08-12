@@ -28,6 +28,8 @@ Currently pursuing B.Tech in Electronics & Communication Engineering at BIT Mesr
 
 🏅 Open Source Contributor (GSSOC)
 
+🏅 ML Engineer @ NxtWave
+
 🏅 ML Engineer @ Elevate Labs
 
 🏅 AI Systems Intern @ OutriX
@@ -39,6 +41,14 @@ Currently pursuing B.Tech in Electronics & Communication Engineering at BIT Mesr
 ---
 
 # Professional Experience
+
+## Machine Learning Intern | NxtWave
+
+* Engineered ML pipelines powering AI-driven educational products and adaptive learning experiences, processing learner
+interaction data across a platform with 131M+ coding submissions.
+* Improved model development efficiency by 40% through automated experimentation, feature engineering, hyperparameter
+optimization, and reproducible evaluation workflows.
+---
 
 ## ML Engineer Intern | Elevate Labs
 
